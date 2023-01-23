@@ -10,3 +10,13 @@ Hemos aprendido a utilizar **git** y **github**. Los comandos mas impotrantes qu
 - `git add` añade archivos al repositorio
 - `git commit` guarda una version de los archivos 
 - `git push` envia los cambios al repositorio remoto
+
+## Guardar cambios 
+
+Cada vez que queremos guardar los cambios en github:
+
+1. Guaradr en visual studio
+2. `git add`
+3. `git commit -m "mensaje`
+4. `git push origin main`
+ 
