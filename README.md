@@ -2,6 +2,8 @@
 pito
 En este repositorio vamos a practicar python
 
+## Git y github
+
 Hemos aprendido a utilizar **git** y **github**. Los comandos mas impotrantes que utlizaremos son:
 
 - `git innit` inicializa una carpeta
