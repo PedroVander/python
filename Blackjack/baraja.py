@@ -23,11 +23,3 @@ class Baraja:
             print(carta)
     
 
-mibaraja=Baraja()
-'''
-print(mibaraja.cartas)
-mibaraja.mezclar()
-print(mibaraja.cartas)
-'''
-numero_cartas = mibaraja.contar()
-print(numero_cartas)
